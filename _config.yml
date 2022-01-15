@@ -18,7 +18,7 @@ author: 梵高先生
 email: ergouge@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   折腾/技术宅
-url: http://blog.ergouge.site # the base hostname & protocol for your site, e.g. http://example.com
+url: http://tech.ergouge.site # the base hostname & protocol for your site, e.g. http://example.com
 sitesearchurl: ergouge.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
