@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 梵高先生
+title: Your awesome title
 email: ergouge@gmail.com
 author: Evan Kwan
 
