@@ -29,7 +29,15 @@
     <script src="{{ site.baseurl }}/assets/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
     <!-- TOC -->
     <script src="{{ site.baseurl }}/assets/js/toc/TOC.js"></script>
-
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?" + "{{ site.sitesearchurl}}";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
     <script>$("#search-form").submit(function(event){
       var query = document.getElementById("search-input").value;
       window.open("http://google.com/search?q=" + query + "%20site:" + "{{ site.sitesearchurl}}");

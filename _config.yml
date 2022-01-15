@@ -36,6 +36,8 @@ excerpt_separator: <!-- more -->
 
 permalink: /:categories/:title.html
 
+baidu_analytics: a3e729d838d905e7101d159959b7bdeb
+
 social_media:
   github_url: https://github.com/ergouge
 #  weibo_url: http://weibo.com/u/2313016370
