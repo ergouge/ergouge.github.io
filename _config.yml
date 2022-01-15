@@ -17,9 +17,9 @@ title: 梵高先生's Blog
 author: 梵高先生
 email: ergouge@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  程序媛/小硕/外协/折腾/技术宅
-url: http://lszero.com # the base hostname & protocol for your site, e.g. http://example.com
-sitesearchurl: lszero.github.io
+  小硕/折腾/技术宅
+url: http://www.ergouge.site # the base hostname & protocol for your site, e.g. http://example.com
+sitesearchurl: ergouge.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Markdown Processors
@@ -37,11 +37,11 @@ excerpt_separator: <!-- more -->
 permalink: /:categories/:title.html
 
 social_media:
-  github_url: https://github.com/lszero
-  weibo_url: http://weibo.com/u/2313016370
-  zhihu_url: https://www.zhihu.com/people/lszero
-  twitter_url: https://twitter.com/_lszero
-  lofter_url: http://intzero.lofter.com/
+  github_url: https://github.com/ergouge
+#  weibo_url: http://weibo.com/u/2313016370
+#  zhihu_url: https://www.zhihu.com/people/ergouge
+#  twitter_url: https://twitter.com/_lszero
+#  lofter_url: http://intzero.lofter.com/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
