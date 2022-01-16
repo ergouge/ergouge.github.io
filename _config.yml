@@ -46,6 +46,12 @@ social_media:
 #  twitter_url: https://twitter.com/_lszero
 #  lofter_url: http://intzero.lofter.com/
 
+menu:
+  archives: 归档
+  categories: 分类
+  tags: 标签
+  about: 关于
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
