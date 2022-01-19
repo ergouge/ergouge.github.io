@@ -6,7 +6,6 @@ categories: 基础知识
 tags: [string]
 ---
 
-# String
 
 - String 被声明为 final，因此它不可被继承
 - Java 8 中，String 内部使用 char 数组存储数据。
