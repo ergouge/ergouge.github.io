@@ -2,7 +2,7 @@
 layout: post
 title:  "字符串基础"
 date:   2022-01-19 22:30:00
-categories: 基础知识
+categories: coding4fun
 tags: [string]
 ---
 
